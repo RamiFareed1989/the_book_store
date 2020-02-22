@@ -1,0 +1,27 @@
+{% extends 'base.html' %} {% block content %}
+
+
+{% for category in categories %}
+  <div class="container">
+   <div class="row">
+   <div class="col m2 l2"></div>
+    <div class="col s12 m8 l8">
+      <div class="card large">
+        <div class="card-image">
+          <img src="{{category.category_image}}">
+          <span class="card-title">{{category.category_name}}</span>
+        </div>
+        <div class="card-content">
+          {{category.category_description}}
+        </div>
+        <div class="card-action">
+          <a href="#">Go to Category</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="divider"></div>
+</div>
+{% endfor %}
+
+{% endblock %}
