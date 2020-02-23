@@ -4,8 +4,7 @@
 {% for category in categories %}
   <div class="container">
    <div class="row">
-   <div class="col m2 l2"></div>
-    <div class="col s12 m8 l8">
+    <div class="col s12 m12 l10 offset-l1">
       <div class="card large">
         <div class="card-image">
           <img src="{{category.category_image}}">
@@ -20,7 +19,6 @@
       </div>
     </div>
   </div>
-  <div class="divider"></div>
 </div>
 {% endfor %}
 

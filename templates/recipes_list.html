@@ -3,11 +3,12 @@
      
  <div class="container">
     <h2>All Recipes</h2>
-  <div class="row s10 m8 l8">
+  <div class="row">
+  <div class="col s12 m12 l10 offset-l1">
   {% for recipe in recipes %}
       <div class="card">
         <div class="card-image">
-         <img src="{{recipe.recipe_image}}">
+         <img src="{{recipe.recipe_image}}" class="img_recipes">
           <span class="card-title"><h4 class="name_of_recipe">{{recipe.recipe_name}}</h4></span>
         </div>
         <div class="card-content">
@@ -27,9 +28,29 @@
         <div class="card-action">
              <h4>{{recipe.category_name}}</h4>
         </div>
+        <div class="container">
+            <div class="row">
+            <div class="divider"></div>
+            </div>
+        </div>
+        <div class="row">
+        <div class="col s6 m3 l3">
+        <a href="{{url_for('edit_recipe', recipe_id=recipe._id)}}" class="waves-effect waves-light btn-large red"><i class="material-icons left">edit</i>Edit</a>
+        </div>
+         <div class="col s6 m3 l3">
+        <a href="{{url_for('delete_recipe', recipe_id=recipe._id)}}" class="waves-effect waves-light btn-large red"><i class="material-icons left">delete</i>Del</a>
+        </div>
+        </div>
       </div>
     {% endfor %}
   </div>
-   
+   </div>
 </div>
+
+    <div class="row">
+        <div class="col offset-s9 offset-m10 offset-l11">
+            <a href="{{url_for('get_recipes')}}"class="btn-floating btn-large waves-effect waves-light red"><i class="fas fa-arrow-up"></i></a>
+        </div>
+    </div>
+
 {% endblock %}
