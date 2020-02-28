@@ -65,7 +65,6 @@ def get_categories():
     category_list = [category for category in _categories]
     return render_template("categories.html", categories = category_list)
 
-
 if __name__ == '__main__':
     app.run(host=os.environ.get('IP'),
             port=os.environ.get('PORT'),

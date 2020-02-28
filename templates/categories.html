@@ -1,6 +1,5 @@
 {% extends 'base.html' %} {% block content %}
 
-
 {% for category in categories %}
   <div class="container">
    <div class="row">
@@ -13,8 +12,8 @@
         <div class="card-content">
           {{category.category_description}}
         </div>
-        <div class="card-action">
-          <a href="#">Go to Category</a>
+         <div class="card-action">
+          <a href="https://www.bbcgoodfood.com/recipes/category/cuisines" target="blank">More about this Cuisine</a>
         </div>
       </div>
     </div>
