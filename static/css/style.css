@@ -19,3 +19,18 @@
 body {
    font-family: 'Roboto', 'sans-serif';
 }
+
+.brand-logo {
+    margin-left: 10px;
+}
+
+.modal-footer{
+    margin-bottom: 20px;
+}
+
+@media (max-width: 480px) {
+  a.brand-logo {
+    font-size: 20px;
+    text-align: center;
+  }
+}
