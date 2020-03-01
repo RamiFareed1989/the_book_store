@@ -31,4 +31,10 @@ In this section we will be talking about the features that I implemented in this
 * **Editing a Recipe:** Once you have added a recipe and realize that you would like to change something in it, I added an "Edit" button on the bottom of each recipe to make it possible to do so. 
 * **Deleting a Recipe:** In case the user would like to delete a recipe that She/He added, All is needed to press on the "Del" button next to the edit button and than they will be facing a model popup asking to confirm the deletion. 
 
+All those feature above are presented in a easy manner to make it simple for the user to take advantage of them. 
+
+#### Left to be implemented Features:
+
+* Adding a upload file section to the **Add Recipe** instead of asking for a URL. This can be achieved by using AWS S3 and connect it to MongoDB. 
+* Making the Categories page linked to the recipe so once you choose a specific category, you will be redirected to those specific recipes of that specific category. 
 
