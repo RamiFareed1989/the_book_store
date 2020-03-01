@@ -25,10 +25,10 @@ Here come the **Mockups** that I planned my project with.
 
 In this section we will be talking about the features that I implemented in this project and features that could be implemented as well:
 
-### Existing Features:
+#### Existing Features:
 
-* Adding a Recipe: At this point when the user click the button "Add Recipe" She/He will be redirected to a page with a submission form that provides several fields to add the needed data in order to get your recipe displayed. 
-* Editing a Recipe: Once you have added a recipe and realize that you would like to change something in it, I added an "Edit" button on the bottom of each recipe to make it possible to do so. 
-* Delete A recipe: In case the user would like to delete a recipe that She/He added, All is needed to press on the "Del" button next to the edit button and than they will be facing a model popup asking to confirm the deletion. 
+* **Adding a Recipe:** At this point when the user click the button "Add Recipe" She/He will be redirected to a page with a submission form that provides several fields to add the needed data in order to get your recipe displayed. 
+* **Editing a Recipe:** Once you have added a recipe and realize that you would like to change something in it, I added an "Edit" button on the bottom of each recipe to make it possible to do so. 
+* **Deleting a Recipe:** In case the user would like to delete a recipe that She/He added, All is needed to press on the "Del" button next to the edit button and than they will be facing a model popup asking to confirm the deletion. 
 
 
