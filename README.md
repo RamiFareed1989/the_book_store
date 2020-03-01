@@ -15,9 +15,20 @@ to the main page that it's called **All Recipes**
 As a User I would like to have a simple UX that is self explantory and at the same time efficient enough to do what I'm expecting from it,
 Like fetching and manipulating date easily. Like clicking the **Add recipe** button and you know what comes next and it's easy to fill out. That is my goal as a user. 
 
-### Wire frames
+## Wire frames
 
 Here come the **Mockups** that I planned my project with.
 
 [CLICK HERE](https://www.scribd.com/document/449610829/Project-Mockups)
+
+## Features
+
+In this section we will be talking about the features that I implemented in this project and features that could be implemented as well:
+
+### Existing Features:
+
+* Adding a Recipe: At this point when the user click the button "Add Recipe" She/He will be redirected to a page with a submission form that provides several fields to add the needed data in order to get your recipe displayed. 
+* Editing a Recipe: Once you have added a recipe and realize that you would like to change something in it, I added an "Edit" button on the bottom of each recipe to make it possible to do so. 
+* Delete A recipe: In case the user would like to delete a recipe that She/He added, All is needed to press on the "Del" button next to the edit button and than they will be facing a model popup asking to confirm the deletion. 
+
 
