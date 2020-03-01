@@ -35,6 +35,6 @@ All those feature above are presented in a easy manner to make it simple for the
 
 #### Left to be implemented Features:
 
-* Adding a upload file section to the **Add Recipe** instead of asking for a URL. This can be achieved by using AWS S3 and connect it to MongoDB. 
+* Adding a upload file section to the **Add Recipe** instead of asking for a URL. This can be achieved by using **AWS S3** and connect it to **MongoDB**. 
 * Making the Categories page linked to the recipe so once you choose a specific category, you will be redirected to those specific recipes of that specific category. 
 
