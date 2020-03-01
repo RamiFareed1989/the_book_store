@@ -15,7 +15,7 @@ to the main page that it's called **All Recipes**
 As a User I would like to have a simple UX that is self explantory and at the same time efficient enough to do what I'm expecting from it,
 Like fetching and manipulating date easily. Like clicking the **Add recipe** button and you know what comes next and it's easy to fill out. That is my goal as a user. 
 
-## Wire frames
+## Wireframes
 
 Here come the **Mockups** that I planned my project with.
 
