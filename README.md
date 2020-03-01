@@ -19,5 +19,5 @@ Like fetching and manipulating date easily. Like clicking the **Add recipe** but
 
 Here come the **Mockups** that I planned my project with.
 
-[CLICK HERE](https://www.scribd.com/document/449610829/Project-Mockups)
+[CLICK HERE](https://www.scribd.com/document/449610829/Project-Mockups){:target="_blank"}
 
