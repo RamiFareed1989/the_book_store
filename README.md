@@ -49,7 +49,7 @@ In this project I have used several Technologies in order to achieve the end goa
 * **Font-Awesome:** To get the icons for the submission form "Add Recipe"
 * **Google-Font:** To add new fonts. 
 
-## Testing:
+## Testing
 
 I have conducted multiple tests in order to check the app on feasbility and also on durability, I also used the section of **"Add Recipe"** to
 add a Recipe and see how it is displayed once added. 
@@ -60,4 +60,22 @@ super easy to delete recipe by mistake. Therefor implementing the button is cruc
 I also asked Family members and collagues at work to go through the website and test it on functionality and they were impressed by its performance
 and they added some recipes themselves. 
 
+## Deployment
 
+The project is pushed to **Github** from there it was linked to Heroku for deployment. 
+
+Here is the link of the app:
+
+* [The Cook Book](https://the-cook-book-by-ram.herokuapp.com/)
+
+## Credits
+
+* The Pictures have been taken from google.
+* The "MORE ABOUT THIS CUISINE" button is linked to [BBC good food](https://www.bbcgoodfood.com/recipes/category/cuisines)
+
+
+## Acknowledgements
+
+This website is inspired by the very known cooking website: 
+
+[Allrecipes](https://www.allrecipes.com/)
