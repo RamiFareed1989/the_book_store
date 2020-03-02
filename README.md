@@ -71,6 +71,7 @@ Here is the link of the app:
 ## Credits
 
 * The Pictures have been taken from google.
+* The description of each Cuisine was taken from Wikipedia. 
 * The "MORE ABOUT THIS CUISINE" button is linked to [BBC good food](https://www.bbcgoodfood.com/recipes/category/cuisines)
 
 
