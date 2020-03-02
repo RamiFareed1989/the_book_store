@@ -38,3 +38,26 @@ All those feature above are presented in a easy manner to make it simple for the
 * Adding a upload file section to the **Add Recipe** instead of asking for a URL. This can be achieved by using **AWS S3** and connect it to **MongoDB**. 
 * Making the Categories page linked to the recipe so once you choose a specific category, you will be redirected to those specific recipes of that specific category. 
 
+## Technologies Used
+
+In this project I have used several Technologies in order to achieve the end goal:
+
+* **Python 3:** In order to create the fully functional app that you see!
+* **Flask:** To make it easier to create the different python app.routes to connect. 
+* **Materialize:** I used it for the navigation bar, the cards and the footers. 
+* **jQuery:** In order to get the Navigation button running and also the delete popup model.
+* **Font-Awesome:** To get the icons for the submission form "Add Recipe"
+* **Google-Font:** To add new fonts. 
+
+## Testing:
+
+I have conducted multiple tests in order to check the app on feasbility and also on durability, I also used the section of **"Add Recipe"** to
+add a Recipe and see how it is displayed once added. 
+
+I went first with the delete button without using the modal popup to ask for confirmation before deletion, but than realised after testing that's
+super easy to delete recipe by mistake. Therefor implementing the button is crucial. 
+
+I also asked Family members and collagues at work to go through the website and test it on functionality and they were impressed by its performance
+and they added some recipes themselves. 
+
+
