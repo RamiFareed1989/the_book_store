@@ -12,6 +12,8 @@ and also makes it possible to add your favorite recipes yourself.
 This website focuses on the users that have a special passion for cooking and surely the coocking fanatics and lovers. Once the website is loaded you will be directed
 to the main page that it's called **All Recipes**
 
+#### User Goals:
+
 As a User I would like to have a simple UX that is self explantory and at the same time efficient enough to do what I'm expecting from it,
 Like fetching and manipulating date easily. Like clicking the **Add recipe** button and you know what comes next and it's easy to fill out. That is my goal as a user. 
 
