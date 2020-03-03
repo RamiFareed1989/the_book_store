@@ -1,6 +1,6 @@
 # The Cook Book
 
-This project represents a website for cooking lovers and uses modern tech to represent the information in the best way possible. 
+This project represents a website with differet recipes for the cooking lovers and uses modern tech to represent the information in the best way possible. 
 
 This Website provides you with the a broad options of recipes that you would like to try out
 and also makes it possible to add your favorite recipes yourself. 
